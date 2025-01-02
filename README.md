@@ -2,7 +2,7 @@
 - 👀 I’m interested in C# and Unity
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on C# and Unity
-- 📫 How to reach me falenangel86@gmail.com
+- 📫 How to reach me cvetomirivanov1986@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
